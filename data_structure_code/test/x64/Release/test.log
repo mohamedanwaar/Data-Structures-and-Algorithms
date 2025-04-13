@@ -1,0 +1,7 @@
+﻿  mohamed.cpp
+  test.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 5 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  test.vcxproj -> C:\Users\User\Desktop\test\test\x64\Release\test.exe
